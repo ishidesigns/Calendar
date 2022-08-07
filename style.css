@@ -6,9 +6,10 @@
 
 body {
     height: 100vh;
-    display: grid;
-    place-items: center;
+    display: flex;
+    justify-content: center;
     font-family: cursive;
+    margin-top: 7rem;
 }
 
 .calendar {
